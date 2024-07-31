@@ -1,4 +1,6 @@
 .venv
+**.DS_Store
 *.DS_Store
+.DS_Store
 *.sesskey
 */__pycache__
